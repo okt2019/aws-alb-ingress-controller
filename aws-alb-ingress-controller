@@ -1,1 +1,1 @@
-FROM amazon/aws-alb-ingress-controller:v2.1.0
+FROM docker.io/amazon/aws-alb-ingress-controller:v1.1.4
